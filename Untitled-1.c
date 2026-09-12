@@ -18,6 +18,5 @@ int main() {
             printf("Negative %s\n", (n % 2 == 0) ? "Even" : "Odd");
         }
     }
-
     return 0;
 }
